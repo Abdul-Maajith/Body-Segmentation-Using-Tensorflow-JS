@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Body-Segmentation React-App Using TensorFlow JS(Machine Learning Library)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
